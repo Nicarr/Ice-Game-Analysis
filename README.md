@@ -1,7 +1,7 @@
 # 📊 ICE Game Analysis
 
 ## 🏆 Project Overview
-This project aims to analyze the information to identify patterns that can predict the success of a game. By doing this, I can make different suggestions and conclusions, while showcasing trends and facts about the information (statistical facts). It utilizes data analysis and programming tools to extract valuable insights and generate well-founded conclusions.
+This project aims to analyze the information to identify patterns that can predict the success of a game. By doing this, I can make different suggestions and conclusions, while showcasing trends and facts about the information (statistical facts). It utilizes data analysis and programming tools to extract valuable insights and generate conclusions.
 
 ## 🚀 Technologies Used
 - **Python** 🐍
